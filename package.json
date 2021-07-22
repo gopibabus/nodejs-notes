@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-notes",
+  "version": "1.0.0",
+  "description": "```js process.exit(); ```",
+  "main": "app.js",
+  "dependencies": {
+    "node": "^16.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.0",
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
